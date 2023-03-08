@@ -1,5 +1,3 @@
--- // xxa
-
 if getgenv().Aiming then return getgenv().Aiming end
 
 -- // Services
@@ -62,7 +60,7 @@ getgenv().Aiming = {
         },
         Players = {
             LocalPlayer,
-            91318356
+            3578885125
         }
     }
 }
